@@ -49,16 +49,7 @@ const Banner = ({ hide, setHide }: BannerProps) => {
             <span className="sr-only">Light bulb</span>
           </span>
           <span>
-           Merci Pour Votre Visite  {" "}
-            <Link
-                to=":)"
-                target="_blank"
-                rel="noreferrer noopener"
-                className="inline font-medium text-blue-600 underline underline-offset-2 decoration-600 hover:no-underline"
-            >
-              :)
-            </Link>
-            .
+           Merci Pour Votre Visite .
           </span>
         </p>
       </div>
