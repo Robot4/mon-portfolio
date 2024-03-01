@@ -55,7 +55,7 @@ export const NAV_LINKS = [
   {
     id: "Mon cv ",
     title: "Mon cv",
-    link: "https://www.linkedin.com/ambry/?x-li-ambry-ep=AQImpTPaxr4nQgAAAY32YJE9xZwpmDVdo4D0uR8sLU1D8ut_XW18_BouzSYjWcgk-Bn34g8_WODbh5qJV5GFXYZVRvPsvDfDAB5aAS3fJxoIypAGFYmuyvwmAV0qEuuKiHgndbElacGjxeDSHyrTSjoyUUd754Da0722SxyxXTMAfLQRlQChLiTB5BdRtJXfdjQhRdNTgalO5wwBHx32l6PJuaOYiRs0KGcoJLH5n_tadI7rok-OUm8hvZIgYmbH31tXEw1nWadHEHoMh7RRnX6cTpJ6X9w6wMokJoIj5kOOvPIXFpuiOWCjoZVZeguzFzzFae_Bchnr0n6NaPAVtReSsU9pb772DWC_5VPWHDW54Db3fCnDTzW-XKvsJgTX3bGgaRGuva3zVbaYdDiN7luCSjkSJla0Wov7lYqerDl0lEAfUudEouGr0aV3W63aok7hPvP7nP123xHBdLAk8LW5ksINdzEOfWXy0O1mnVBRAA4Fl5xXiNkxNryuz26EOsplG532-ul5kNix6d_FZ7n1ymfA2Xcjf2d7YSfIciT-3VdQPJgF9pjqzkykHwqIaOr1Og",
+    link: "https://filebin.net/6hh47ugkn1t3r21k/CV_2024-02-12_El_Mehdi_Hail__11___1___1_.pdf",
   },
 ] as const;
 
