@@ -20,6 +20,8 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
+import rbt from "./tech/rbt.png";
+import slm from "./tech/selen.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
@@ -27,6 +29,7 @@ import typescript from "./tech/typescript.png";
 
 import meta from "./company/meta.png";
 import oncf from "./company/ONCF.png";
+import Sii from "./company/Sii.jpg";
 import AM  from "./company/AM.png";
 
 import project1 from "./projects/project1.png";
@@ -67,6 +70,7 @@ export {
   typescript,
   threejs,
   meta,
+  Sii,
   oncf,
   AM,
   project1,
