@@ -26,8 +26,8 @@ export const Hero = () => {
             Salut, Je suis <span className="text-[#915eff]">Mehdi</span>
           </h1>
           <p className={cn(styles.heroSubText, "mt-2 text-white-100")}>
-              Je développe des application   <br className="sm:block hidden" />
-              web et des interfaces
+          Ingénieur en Test    <br className="sm:block hidden" />
+          et Automatisation
           </p>
         </div>
       </div>
