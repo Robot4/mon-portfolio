@@ -19,7 +19,6 @@ import {
   figma,
   docker,
   meta,
-  Sii,
   oncf,
   AM,
   threejs,
@@ -66,12 +65,13 @@ export const SERVICES = [
     title: "Développeur Web",
     icon: web,
   },
+  {
+    title: "Testeur de logiciels",
+    icon: mobile,
+  },
 
   {
     title: "Backend Developer",
-    icon: backend,
-  },{
-    title: "Testeur de logiciels",
     icon: backend,
   },
   {
@@ -82,14 +82,6 @@ export const SERVICES = [
 
 // Technologies
 export const TECHNOLOGIES = [
-  {
-      name: "Robot Framework",
-      icon: rbt,
-  },
-   {
-        name: "Selenium",
-        icon: slm,
-    },
   {
     name: "HTML 5",
     icon: html,
@@ -147,21 +139,7 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
 
-      {
-          title: "Ingénieur en Test et Automatisation - Stage PFE",
-          company_name: "Sii Services Maroc",
-          icon: Sii,
-          iconBg: "#fff",
-          date: "Avr 2024 - Sept 2024",
-          points: [
-            "Rédaction de la conception des tests en fonction des exigences fonctionnelles et techniques.",
-            "Automatisation des scénarios de test en utilisant Robot Framework et Selenium",
-            "Développement de scripts de test en Python et JavaScript.",
-            "Gestion des cas de test et suivi des résultats dans TestRail.",
-            "Production de rapports de tests pour assurer la qualité et la performance du produit.",
-
-          ],
-        },
+    
   {
     title: "Stage Technique",
     company_name: "ONCF, Rabat ",
@@ -188,8 +166,6 @@ export const EXPERIENCES = [
 
     ],
   },
-
-
 
 
 ] as const;
