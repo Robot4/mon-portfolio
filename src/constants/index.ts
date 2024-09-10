@@ -17,9 +17,12 @@ import {
   mongodb,
   git,
   figma,
+  selenium,
+  robotframwork,
   docker,
   meta,
   oncf,
+  sii,
   AM,
   threejs,
   project1,
@@ -131,6 +134,14 @@ export const TECHNOLOGIES = [
     icon: figma,
   },
   {
+    name: "selenium",
+    icon: selenium,
+  },
+  {
+    name: "robotframwork",
+    icon: robotframwork,
+  },
+  {
     name: "docker",
     icon: docker,
   },
@@ -139,7 +150,21 @@ export const TECHNOLOGIES = [
 // Experiences
 export const EXPERIENCES = [
 
-    
+  {
+    title: "Ingénieur en Test et Automatisation - Stage PFE",
+    company_name: "Sii Services Maroc",
+    icon: sii,
+    iconBg: "#fff",
+    date: "Avr 2024 - sept 2024",
+    points: [
+      "Rédaction de la conception des tests en fonction des exigences fonctionnelles et techniques.",
+      "Automatisation des scénarios de test en utilisant Robot Framework et Selenium.",
+      "Développement de scripts de test en Python et JavaScript.",
+      "Exécution des tests manuels pour valider les nouvelles fonctionnalités et corriger les anomalies",
+      "Gestion des cas de test et suivi des résultats dans TestRail.",
+      "Participation à l'intégration continue en configurant et en maintenant des pipelines CI/CD dans GitLab",
+    ],
+  },
   {
     title: "Stage Technique",
     company_name: "ONCF, Rabat ",

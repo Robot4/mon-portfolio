@@ -14,6 +14,9 @@ import web from "./web.png";
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
+import selenium  from "./tech/selen.png";
+import robotframwork   from "./tech/rbt.png";
+
 import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
@@ -27,6 +30,8 @@ import typescript from "./tech/typescript.png";
 
 import meta from "./company/meta.png";
 import oncf from "./company/ONCF.png";
+import sii from "./company/Sii.jpg";
+
 import AM  from "./company/AM.png";
 
 import project1 from "./projects/project1.png";
@@ -56,6 +61,8 @@ export {
   css,
   docker,
   figma,
+  selenium,
+  robotframwork,
   git,
   html,
   javascript,
@@ -68,6 +75,7 @@ export {
   threejs,
   meta,
   oncf,
+  sii,
   AM,
   project1,
   project2,

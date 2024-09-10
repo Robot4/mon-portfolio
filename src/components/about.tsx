@@ -54,11 +54,11 @@ export const About = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className="empty-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Étudiant en informatique en 5 ème année à l'EMSI, Option MIAGE, passionné par la
-          résolution de problèmes et la création de solutions innovantes. Expérience en gestion de
-          projets, développement web et mobile. Intéressé par l'IA et la cybersécurité. Proactif,
-          passionné et à la recherche de nouveaux défis. Objectif professionnel : travailler dans une
-          entreprise innovante pour développer mes compétences et contribuer au succès de l'entreprise.
+          Ingénieur en informatique spécialisé en MIAGE (Méthodes Informatiques Appliquées à la Gestion des
+          Entreprises) diplômé de l'École Marocaine des Sciences de l'Ingénieur (EMSI), je suis à la recherche d'une
+          opportunité de poste en ingénierie informatique. Fort d'une solide formation et de compétences éprouvées en
+          gestion des systèmes d'information, je suis prêt à apporter mon expertise et mon dynamisme à une
+          entreprise innovante.
 
         </motion.p>
 
